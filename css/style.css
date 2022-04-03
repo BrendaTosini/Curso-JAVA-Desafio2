@@ -1,0 +1,28 @@
+#logohtml{width: 150px;}
+#logocss{width: 150px;}
+
+.navegador{ 
+    text-align: right;
+    background-color: grey;
+    height: 35px;
+    margin-bottom: 40px;
+    padding-top: 10px;}
+
+            
+.ancla{
+    text-decoration: none; 
+    margin-left: 10px;} 
+
+
+.div{
+    margin: auto;
+    margin-top: 10px;
+    height: 250px;
+    width: 1000px; 
+    color: black;}
+
+footer{
+    text-align: center;
+    background-color: grey;
+    color: black;}
+body{background-color: white;}
